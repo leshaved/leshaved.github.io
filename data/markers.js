@@ -416,5 +416,6 @@ var markers = [{'lat': 41.6167547, 'city': 'Batumi', 'lng': 41.6367455, 'country
  {'lat': 48.4493055, 'city': 'Mukacheve', 'lng': 22.7117106, 'country': 'Ukraine'},
  {'lat': 48.3908952, 'city': 'Strabychovo', 'lng': 22.5431871, 'country': 'Ukraine'},
  {'lat': 48.41624669999999, 'city': 'Cierna_Nad_Tisoyu', 'lng': 22.0891587, 'country': 'Slovakia'},
- {'lat': 48.4012026, 'city': 'Klishkivtsi', 'lng': 26.2777899, 'country': 'Ukraine'}
+ {'lat': 48.4012026, 'city': 'Klishkivtsi', 'lng': 26.2777899, 'country': 'Ukraine'},
+ {'lat': 19.076090, 'city': 'Mumbai', 'lng': 72.877426, 'country': 'India'},       
 ];
