@@ -22,8 +22,8 @@ var CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{
 var myURL = jQuery( 'script[src$="travelmap.js"]' ).attr( 'src' ).replace( 'travelmap.js', '' );
 
 var myIcon = L.icon({
-  iconUrl: 'https://people.eng.unimelb.edu.au/ovedernikov/images/pin24.png',
-  iconRetinaUrl: 'https://people.eng.unimelb.edu.au/ovedernikov/images/pin48.png',
+  iconUrl: 'https://raw.githubusercontent.com/leshaved/leshaved.github.io/master/pin.png',
+  iconRetinaUrl: 'https://raw.githubusercontent.com/leshaved/leshaved.github.io/master/icon-2x.png',
   iconSize: [29, 24],
   iconAnchor: [9, 21],
   popupAnchor: [0, -14]
